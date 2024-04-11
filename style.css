@@ -4,13 +4,7 @@
     box-sizing: border-box;
   }
   
-  body {
-    height: 100vh;
-    display: grid;
-    place-items: center;
-    overflow: hidden;
-    box-shadow: "0px 4px 4px 0px #00000040,inset 0 0 0 1000px rgba(0,0,0,.5)"
-  }
+
   
   main {
     position: relative;
